@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Exemplos Dialogs</string>
+
+    <string-array name="linguagens">
+        <item>Java</item>
+        <item>Python</item>
+        <item>PHP</item>
+        <item>C++</item>
+        <item>JavaScript</item>
+        <item>Kotlin</item>
+    </string-array>
+</resources>
